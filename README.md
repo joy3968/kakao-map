@@ -2,13 +2,13 @@
 - Kakao Map 사용하기
 
 ### 지도
- 지도 가져오기
+* 지도 가져오기
 
 ### 오버레이
- 마커 표기하기
+* 마커 표기하기
 
 ### 라이브러리
- 카테고리별 장소 검색하기
+* 카테고리별 장소 검색하기
 
 <hr>
 <img width="1006" alt="image" src="https://github.com/joy3968/kakao-map/assets/69666784/fc7da818-175e-430d-b2c3-8d4a085e1457">
